@@ -4,7 +4,7 @@ const Footer = () => {
         <div className="container mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-8 text-center md:text-left">
           {/* Company Info */}
           <div>
-            <h2 className="text-xl font-semibold">KunStore</h2>
+            <h2 className="text-xl font-semibold">My Ecommerce</h2>
             <p className="mt-2 text-gray-400">Your one-stop shop for quality products.</p>
           </div>
           
@@ -41,7 +41,7 @@ const Footer = () => {
         
         {/* Copyright */}
         <div className="mt-8 text-center text-gray-500 text-sm">
-          &copy; {new Date().getFullYear()} KunStore. All rights reserved.
+          &copy; {new Date().getFullYear()} My Ecommerce. All rights reserved.
         </div>
       </footer>
     );

@@ -6,7 +6,7 @@ const Achievement = () => {
     <Card sx={{ position: 'relative',bgcolor:"#1E272E",color:"white", }}>
       <CardContent>
         <Typography variant="h6" sx={{ letterSpacing: '.25px' }}>
-          Shop With Azad
+          My Ecommerce
         </Typography>
 
         <Typography>

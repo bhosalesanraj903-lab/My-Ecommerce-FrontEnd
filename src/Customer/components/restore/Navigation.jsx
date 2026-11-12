@@ -302,7 +302,7 @@ export default function Navigation() {
               {/* Logo */}
               <div className="ml-4 flex lg:ml-0">
                 <a href="#">
-                  <span className="sr-only">Your Company</span>
+                  <span className="sr-only">My Ecommerce</span>
                   <img
                     alt=""
                     src="https://tailwindui.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
